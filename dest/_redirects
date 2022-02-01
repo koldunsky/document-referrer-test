@@ -1,1 +1,1 @@
-/default/from.html /default/to.html 301!
+/default/index.html https://redirects-referrer-test-to.netlify.app/ 301!
