@@ -1,1 +1,2 @@
 /default https://redirects-referrer-test-to.netlify.app 302!
+/strict-origin-when-cross-origin https://redirects-referrer-test-to.netlify.app 302!
